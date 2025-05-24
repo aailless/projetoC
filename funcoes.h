@@ -6,20 +6,20 @@
 #include <string.h>
 #include <time.h>
 
-#define MAS_USUARIO 50
-#define MAS_SENHA 50
+#define MAX_USUARIO 50
+#define MAX_SENHA 50
 #define MAX_POST 280
 #define USERS_FILE "usuarios.txt"
 #define POSTS_FILE "posts.txt"
 
 typedef struct User {
-    char usuario[MAS_USUARIO];
-    char senha[MAS_SENHA];
+    char usuario[MAX_USUARIO];
+    char senha[MAX_SENHA];
     struct User *next;
 } User;
 
 typedef struct Post {
-    char usuario[MAS_USUARIO];
+    char usuario[MAX_USUARIO];
     char conteudo[MAX_POST];
     time_t timestamp;
     struct Post *next;

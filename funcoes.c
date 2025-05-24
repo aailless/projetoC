@@ -38,8 +38,8 @@ void registro() {
 }
 
 User* login() {
-    char usuario[MAS_USUARIO];
-    char senha[MAS_SENHA];
+    char usuario[MAX_USUARIO];
+    char senha[MAX_SENHA];
 
     printf("\n--- Login ---\n");
     printf("Nome de usuario: ");
