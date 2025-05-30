@@ -24,15 +24,15 @@
  5) Ver Feed  \
    5.1) Selecione a opção 2 (Ver feed) no menu  \
    5.2) O sistema mostrará todos os posts em ordem reversa (mais recentes primeiro)  \
-   5.3) Cada post exibirá:  \
-    5.1.1) Nome do usuário  \
-    5.1.2) Data e hora formatadas  \
-    5.1.3) Conteúdo do post
+   5.3) Cada post exibirá:  
+     - Nome do usuário  
+     - Data e hora formatadas  
+     - Conteúdo do post
 
- 6) Logout  \
+ 7) Logout  \
    6.1) Selecione a opção 3 (Logout) no menu  \
    6.2) Você será desconectado e retornará ao menu de usuário não logado  
 
- 7) Sair do Sistema  \
+ 8) Sair do Sistema  \
    7.1) Selecione a opção 0 (Sair) em qualquer momento  \
    7.2) O sistema salvará automaticamente todos os dados e encerrará  
