@@ -214,7 +214,7 @@ void liberarMemoria() {
 }
 
 void exibirMenu() {
-    printf("\n--- Rede Social ---\n");
+    printf("\n--- cmdwitter ---\n");
     if (usuarioAtual) {
         printf("Usuario: @%s\n", usuarioAtual->usuario);
         printf("1. Criar post\n");
