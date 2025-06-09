@@ -35,4 +35,6 @@
 
  8) Sair do Sistema  \
    7.1) Selecione a opção 0 (Sair) em qualquer momento  \
-   7.2) O sistema salvará automaticamente todos os dados e encerrará  
+   7.2) O sistema salvará automaticamente todos os dados e encerrará
+
+#### Nosso Grupo: https://docs.google.com/document/d/1_pZWhi6K5ak7Ye_Nr-LRzAnu6xTsrww2U81_yeAZvOg/edit?usp=sharing
